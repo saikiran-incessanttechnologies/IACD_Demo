@@ -29,7 +29,9 @@
             <groups/>
         </role>
         <role inherit="true" allowForAll="false" name="administrators">
-            <users/>
+            <users>
+                <userUuid>kiranj</userUuid>
+            </users>
             <groups/>
         </role>
         <role inherit="false" allowForAll="false" name="denyReaders">
